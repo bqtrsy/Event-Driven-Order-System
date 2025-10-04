@@ -30,11 +30,11 @@ This project demonstrates my understanding of:
 📋 Prerequisites
 Before you begin, ensure you have the following installed:
 
-Node.js (v16 or higher) - Download here
-Java JDK (v11 or higher) - Download here
-MongoDB (v5.0 or higher) - Download here
-RabbitMQ (v3.9 or higher) - Download here
-Git - Download here
+Node.js (v16 or higher)
+Java JDK (v11 or higher) 
+MongoDB (v5.0 or higher) 
+RabbitMQ (v3.9 or higher)
+Git 
 Maven (v3.6 or higher) - For building Spring Boot backend
 
 🚀 Installation Steps
